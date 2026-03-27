@@ -1,0 +1,3 @@
+- use the optimized or default image to flash the pi 
+- use raspberry pi imager
+- sha256 file is provided for official imager
