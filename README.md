@@ -8,3 +8,5 @@ this is a beginner friendly tool that senses the environment and automatically c
 - created a case to hold it together
 
 made with❤️ for hackclub community
+![case](<cad/Screenshot 2026-03-28 010220.png>)
+![simple render](<cad/Screenshot 2026-03-28 123637.png>)
